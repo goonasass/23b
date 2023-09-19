@@ -16,13 +16,12 @@
 - [ ] 3rd thing
 - [ ] 4th thing
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+> 這裡是愛看電影的嗡嗡嗡
+> 還會吃
+> 高中畢旅送急診
 
-
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
+> yoyo
+> 很高興認識你
 
 ```python
 s = "python syntax highlighting"
