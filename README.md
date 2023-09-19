@@ -16,6 +16,10 @@
 - [ ] 3rd thing
 - [ ] 4th thing
 
+`python
+s = "python syntax highlighting"
+print(s)
+
 ```python
 s = "python syntax highlighting"
 print(s)
