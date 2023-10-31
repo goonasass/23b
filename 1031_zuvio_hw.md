@@ -3,7 +3,7 @@
 ##### 程式碼如下
 ---
 ```java
-#CShape.java  
+//CShape.java  
 
 abstract class CShape{
     protected String color;
@@ -15,7 +15,7 @@ abstract class CShape{
     public abstract void show();
 }
 
-#CTriangle.java
+//CTriangle.java
 
 class CTriangle extends CShape{
     double ca, cb, cc;
