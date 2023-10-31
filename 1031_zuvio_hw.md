@@ -2,8 +2,7 @@
 
 ##### 程式碼如下
 ---
-'''java
-
+```java
 #CShape.java  
 
 abstract class CShape{
@@ -33,5 +32,5 @@ class CTriangle extends CShape{
     }
    
 }
-
-'''
+```
+---
